@@ -1,0 +1,31 @@
+﻿### Git ###
+/.git/
+.gitignore
+!/.gitignore
+
+### SVN ###
+.svn/
+
+### Eclipse ###
+/.classpath
+/.project
+/.settings
+
+### IntelliJIDEA ###
+/.idea/
+*.iml
+*.ipr
+*.iws
+
+### AndroidStudio ###
+build/
+/captures/
+/local.properties
+.cxx/
+.externalNativeBuild/
+
+### Mac ###
+.DS_Store
+
+### Gradle ###
+/.gradle/
