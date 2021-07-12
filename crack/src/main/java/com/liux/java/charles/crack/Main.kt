@@ -1,6 +1,6 @@
 @file:JvmName("Main")
 
-package com.liux.java.charles
+package com.liux.java.charles.crack
 
 import javassist.ClassPool
 import javassist.CtClass
